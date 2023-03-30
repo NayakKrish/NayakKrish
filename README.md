@@ -16,13 +16,18 @@ Here are some ideas to get you started:
 -->
 
 I am Front End developer.
-🌍  I'm based in Mumbai, Maharashtra
-🧠  Currently learning TypeScript
-🤝  I'm open to collaborating on interesting projects as a developer
+
+- 🌍 I'm based in Mumbai, Maharashtra
+- 🧠 Currently learning TypeScript
+- 🤝 I'm open to collaborating on interesting projects as a developer
 
 
-Skills
-HTML5   CSS3   JavaScript   React   React Native   Next   Sass  
+Skills: 
+HTML5   
+CSS3   
+JavaScript   
+React   
+React Native   
+Next   
+Sass  
 
-
-Socials
