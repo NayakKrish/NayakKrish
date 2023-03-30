@@ -23,12 +23,16 @@ I am Front End developer.
 
 
 Skills: 
-
-HTML5   
-CSS3   
-JavaScript   
-React   
-React Native   
-Next   
-Sass  
+- HTML5   
+- CSS3   
+- JavaScript   
+- React   
+- React Native   
+- Next   
+- Sass  
+- Material UI
+- Redux
+- Redux Toolkit
+- RTK Query
+- Axios
 
