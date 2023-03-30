@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Krish Nayak
 
 <!--
 **NayakKrish/NayakKrish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Front End developer.
+🌍  I'm based in Mumbai, Maharashtra
+🧠  Currently learning TypeScript
+🤝  I'm open to collaborating on interesting projects as a developer
+
+
+Skills
+HTML5   CSS3   JavaScript   React   React Native   Next   Sass  
+
+
+Socials
