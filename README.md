@@ -23,6 +23,7 @@ I am Front End developer.
 
 
 Skills: 
+
 HTML5   
 CSS3   
 JavaScript   
