@@ -15,25 +15,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Front End developer.
+I am a Software Engineer.
 
 - 🌍 I'm based in Mumbai, Maharashtra
-- 🧠 Currently learning TypeScript
+- 🧠 Currently learning Firebase and TypeScript
 - 🤝 I'm open to collaborating on interesting projects as a developer
 - 🌐 Website:- https://krishnayak.vercel.app/
 
 
 Skills: 
+- React   
+- React Native   
+- Next
+- Firebase
+- Typescript
+- Tailwind
+- Storybook
 - HTML5   
 - CSS3   
 - JavaScript   
-- React   
-- React Native   
-- Next   
 - Sass  
 - Material UI
+- Ant Design
 - Redux
 - Redux Toolkit
+- Redux Saga
 - RTK Query
 - Axios
 
